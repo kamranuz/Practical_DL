@@ -5,7 +5,7 @@ This repo supplements Deep Learning course taught @fall'23. _For previous iterat
 Lecture and practice materials for each week are in ./week* folders. You can complete all asignments locally or in google colab (see readme files in week*)
 
 # General info
-* Telegram [chat room](https://t.me/+Q3s6oqGWedpmOGUy) (russian).
+* Telegram [chat room]([https://t.me/+Q3s6oqGWedpmOGUy](https://t.me/+OJLD95o8lYkzZDBi)) (russian).
 * Deadlines & grading rules can be found at [this page](https://github.com/yandexdataschool/Practical_DL/wiki/Homeworks-and-grading-(HSE)).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/practical_dl/issues) or ask around in the chat.
 
