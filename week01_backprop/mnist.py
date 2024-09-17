@@ -13,7 +13,7 @@ def load_dataset(flatten=False):
     else:
         from urllib.request import urlretrieve
 
-    def download(filename, source='http://yann.lecun.com/exdb/mnist/'):
+    def download(filename, source='https://storage.googleapis.com/cvdf-datasets/mnist/'):
         print("Downloading %s" % filename)
         urlretrieve(source + filename, filename)
 
